@@ -1,0 +1,8 @@
+.content{
+    grid-area: c;
+    background-color: rgb(202, 167, 116);
+  }
+
+.baner{
+  width: 1000px;
+  }
